@@ -11,3 +11,6 @@ This is a good example of [my code](https://gist.github.com/SonsonTheQuest/94aff
 ### Colab
 
 This is the corresponding [Colab notebook](https://github.com/SonsonTheQuest/MLOps_specialization/blob/main/Test_colab_notebook.ipynb)
+
+### Image
+![image](https://github.com/SonsonTheQuest/MLOps_specialization/assets/40429439/bb62035b-9149-47c8-8549-a4e4fe074e2a)
